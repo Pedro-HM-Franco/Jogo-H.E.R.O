@@ -347,8 +347,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/bomb.cs"
 "Assets/Script/NewBehaviourScript.cs"
+"Assets/Script/NewBehaviourScript1.cs"
 "Assets/Script/parede.cs"
 "Assets/Script/Player.cs"
+"Assets/Script/player2.cs"
+"Assets/Script/seguir.cs"
 -langversion:9.0
 
 /deterministic
